@@ -79,13 +79,13 @@ wget https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkill
 Execute the code using the command:
 
 ```bash
-python3.11 banks_project.py
+python3.10 banks_project.py
 ```
 
 ## Learner
 
-[Pravin Regismond](https://www.linkedin.com/in/pregismond)
+[Fernando_Sena](https://www.linkedin.com/in/fernandosena0b976824a/)
 
 ## Acknowledgments
 
-* IBM Skills Network © IBM Corporation 2023. All rights reserved.
+* IBM Skills Network © IBM Corporation 2024. All rights reserved.
